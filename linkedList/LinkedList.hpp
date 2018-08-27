@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Bennett Haase-Divine 
+*	@date   8/27/18
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
